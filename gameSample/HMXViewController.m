@@ -119,6 +119,8 @@ GLfloat gCubeVertexData[216] =
 {    
     [self tearDownGL];
     
+    
+    
     if ([EAGLContext currentContext] == self.context) {
         [EAGLContext setCurrentContext:nil];
     }
@@ -127,6 +129,8 @@ GLfloat gCubeVertexData[216] =
 - (void)didReceiveMemoryWarning
 {
     [super didReceiveMemoryWarning];
+    
+    
 
     if ([self isViewLoaded] && ([[self view] window] == nil)) {
         self.view = nil;

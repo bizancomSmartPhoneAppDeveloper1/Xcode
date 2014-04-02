@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>075F1E1C-247F-45C4-B43B-88668E3A52EE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>gameSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FC59A619-AD81-46CF-9958-77E5D6847A8E</key>
+		<string>https://github.com/bizancomSmartPhoneAppDeveloper1/testApp1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gameSample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FC59A619-AD81-46CF-9958-77E5D6847A8E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bizancomSmartPhoneAppDeveloper1/testApp1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FC59A619-AD81-46CF-9958-77E5D6847A8E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FC59A619-AD81-46CF-9958-77E5D6847A8E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>gameSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
